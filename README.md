@@ -1,9 +1,3 @@
-    - a link to an article or web site you find interesting related to software development/engineering (indirect relationships are ok)
-    - a paragraph or two about what you find interesting about that article
-    - remember that this will be public
-    - Use Markdown syntax to make it look nice
-
-
 # Interesting Article on Quantum Computing and Cryptography
 
 [Quantum Computer's Impact on Encryption](https://www.scientificamerican.com/article/the-quantum-computing-threat-to-encryption/)
